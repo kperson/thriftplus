@@ -1,0 +1,2 @@
+sudo chmod +x thriftplus.rb
+ln -s ./thriftplus /usr/local/bin/

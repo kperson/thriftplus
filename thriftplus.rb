@@ -10,7 +10,7 @@ options = { }
 OptionParser.new do |opts|
  # Set a banner, displayed at the top
  # of the help screen.
- opts.banner = "Usage: ruby thriftplus.rb --out=/Users/myusername/Documents/mythriftfiles(optional) --lang cocoa --tfile chat.thrift"
+ opts.banner = "Usage: thriftplus --out=/Users/myusername/Documents/mythriftfiles(optional) --lang cocoa --tfile chat.thrift"
  # Define the options, and what they do
 
  options[:out] = Dir.pwd
