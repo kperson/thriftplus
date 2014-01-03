@@ -1,9 +1,3 @@
 #!/bin/sh
 
-Installation
-============
 bundle exec ruby thriftplus.rb "$@"
-
-Running
-=======
-thriftplus --out=/Users/myusername/Documents/mythriftfiles(optional) --lang cocoa --tfile chat.thrift

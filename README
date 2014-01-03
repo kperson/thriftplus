@@ -1,2 +1,7 @@
-sudo chmod +x thriftplus.rb
-ln -s ./thriftplus /usr/local/bin/
+Installation
+============
+sudo chmod +x thriftplus
+
+Running
+=======
+thriftplus --out=/Users/myusername/Documents/mythriftfiles(optional) --lang cocoa --tfile chat.thrift
