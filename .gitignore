@@ -1,4 +1,3 @@
-*.thrift
 *.h
 *.m
 Gemfile.lock
