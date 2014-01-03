@@ -1,9 +1,11 @@
 Installation
 ============
 Install Thrift - http://thrift.apache.org/
+
 Install Bundler - http://bundler.io/
 
 bundle install
+
 sudo chmod +x thriftplus
 
 Usuage
