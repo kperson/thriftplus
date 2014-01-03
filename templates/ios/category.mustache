@@ -14,7 +14,7 @@
     
 {{#functions}}
 {{signature}} {
-    @try{
+    @try {
         NSOperationQueue *asyncQueue = [[NSOperationQueue alloc] init];
         [asyncQueue setMaxConcurrentOperationCount:1];
         [asyncQueue addOperationWithBlock:^(void) {   
